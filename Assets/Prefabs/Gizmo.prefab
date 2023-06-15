@@ -201,6 +201,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   influence: {x: 1, y: 0, z: 0}
+  gizmoOrigin: {fileID: 1469484431487915665}
 --- !u!1 &1469484431672796750
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,6 +312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   influence: {x: 0, y: 1, z: 0}
+  gizmoOrigin: {fileID: 1469484431487915665}
 --- !u!1 &1469484431789172444
 GameObject:
   m_ObjectHideFlags: 0
@@ -421,6 +423,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   influence: {x: 0, y: 0, z: 1}
+  gizmoOrigin: {fileID: 1469484431487915665}
 --- !u!1 &1469484431850507267
 GameObject:
   m_ObjectHideFlags: 0
@@ -562,6 +565,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   influence: {x: 1, y: 0, z: 0}
+  gizmoOrigin: {fileID: 1469484431487915665}
 --- !u!1 &1469484432050174218
 GameObject:
   m_ObjectHideFlags: 0
@@ -671,6 +675,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   influence: {x: 0, y: 0, z: 1}
+  gizmoOrigin: {fileID: 1469484431487915665}
 --- !u!1 &1469484432562037350
 GameObject:
   m_ObjectHideFlags: 0
@@ -781,6 +786,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   influence: {x: 0, y: 0, z: 1}
+  gizmoOrigin: {fileID: 1469484431487915665}
 --- !u!1 &1469484432606594680
 GameObject:
   m_ObjectHideFlags: 0
@@ -890,6 +896,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   influence: {x: 0, y: 1, z: 0}
+  gizmoOrigin: {fileID: 1469484431487915665}
 --- !u!1 &1469484433075616615
 GameObject:
   m_ObjectHideFlags: 0
@@ -917,13 +924,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1469484433075616615}
-  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1469484431487915665}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!33 &1469484433075616612
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -1000,6 +1007,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   influence: {x: 0, y: 1, z: 0}
+  gizmoOrigin: {fileID: 1469484431487915665}
 --- !u!1 &1469484433239627497
 GameObject:
   m_ObjectHideFlags: 0
@@ -1023,7 +1031,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1469484433239627497}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1031,7 +1039,7 @@ Transform:
   - {fileID: 1469484432562037349}
   m_Father: {fileID: 1469484431487915665}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &1469484433351017929
 GameObject:
   m_ObjectHideFlags: 0
@@ -1059,13 +1067,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1469484433351017929}
-  m_LocalRotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+  m_LocalRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1469484431487915665}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 90, y: -90, z: 0}
+  m_LocalEulerAnglesHint: {x: 90, y: 90, z: 0}
 --- !u!33 &1469484433351017973
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -1142,3 +1150,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   influence: {x: 1, y: 0, z: 0}
+  gizmoOrigin: {fileID: 1469484431487915665}
