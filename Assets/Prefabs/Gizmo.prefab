@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1469484431487915665}
   - component: {fileID: 436767512281292420}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Gizmo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68,7 +68,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1469484431531448222}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LinearX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ GameObject:
   - component: {fileID: 1469484431549396771}
   - component: {fileID: 1469484431549396772}
   - component: {fileID: 6501038285535803165}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PosX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -215,7 +215,7 @@ GameObject:
   - component: {fileID: 1469484431672796747}
   - component: {fileID: 1469484431672796748}
   - component: {fileID: 8548577418244398984}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PosY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -326,7 +326,7 @@ GameObject:
   - component: {fileID: 1469484431789172441}
   - component: {fileID: 1469484431789172442}
   - component: {fileID: 470365108097422916}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: RotationZ
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -433,7 +433,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1469484431850507266}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LinearY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -469,7 +469,7 @@ GameObject:
   - component: {fileID: 1469484431891859277}
   - component: {fileID: 1469484431891859278}
   - component: {fileID: 7898158583309776956}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ScaleX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -579,7 +579,7 @@ GameObject:
   - component: {fileID: 1469484432050174263}
   - component: {fileID: 1469484432050174216}
   - component: {fileID: 6222995296421432073}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ScaleZ
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -689,7 +689,7 @@ GameObject:
   - component: {fileID: 1469484432562037347}
   - component: {fileID: 1469484432562037348}
   - component: {fileID: 3589255407377080104}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PosZ
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -800,7 +800,7 @@ GameObject:
   - component: {fileID: 1469484432606594661}
   - component: {fileID: 1469484432606594662}
   - component: {fileID: 4796681703506402478}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ScaleY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -910,7 +910,7 @@ GameObject:
   - component: {fileID: 1469484433075616613}
   - component: {fileID: 1469484433075616611}
   - component: {fileID: 1437891931015168862}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: RotationY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1017,7 +1017,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1469484433239627496}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LinearZ
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1053,7 +1053,7 @@ GameObject:
   - component: {fileID: 1469484433351017974}
   - component: {fileID: 1469484433351017975}
   - component: {fileID: 1051796632207675823}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: RotationX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
